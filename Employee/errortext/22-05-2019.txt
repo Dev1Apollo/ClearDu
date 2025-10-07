@@ -1,0 +1,12 @@
+Row 67 and agency Right Mark consultancyand branch = AMRELI  not match 
+Row 68 and agency Right Mark consultancyand branch = MEHSANA  not match 
+Row 69 and agency Right Mark consultancyand branch = PALANPUR  not match 
+Row 70 and agency Right Mark consultancyand branch = MEHSANA  not match 
+Row 72 and agency Right Mark consultancyand branch = PATAN  not match 
+Row 73 and agency Right Mark consultancyand branch = PATAN  not match 
+Row 74 and agency Right Mark consultancyand branch = PATAN  not match 
+Row 75 and agency Right Mark consultancyand branch = PATAN  not match 
+Row 78 and agency Right Mark consultancyand branch = UNA  not match 
+Row 84 and agency Right Mark consultancyand branch = PATAN  not match 
+Row 85 and agency Right Mark consultancyand branch = PATAN  not match 
+Row 86 and agency Right Mark consultancyand branch = PATAN  not match 

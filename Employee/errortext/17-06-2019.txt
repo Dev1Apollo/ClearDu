@@ -1,0 +1,12 @@
+Row 39 & Branchname =SANGOD not match 
+Row 39 & Customer City Name =SANGOD not match 
+Row 39 & Branch =SANGOD and state Rajasthannot match 
+Row 39 and agency Dev Financial Servicesand branch = SANGOD  not match 
+Row 159 & Branchname =PHALODI not match 
+Row 159 & Customer City Name =PHALODI not match 
+Row 159 & Branch =PHALODI and state Rajasthannot match 
+Row 159 and agency Dev Financial Servicesand branch = PHALODI  not match 
+Row 160 & Branchname =PHALODI not match 
+Row 160 & Customer City Name =PHALODI not match 
+Row 160 & Branch =PHALODI and state Rajasthannot match 
+Row 160 and agency Dev Financial Servicesand branch = PHALODI  not match 

@@ -1,0 +1,70 @@
+Web services List
+ URL : http://localhost/audit/web_services/ws_services.php?action=loginfe
+
+1.action=loginfe
+
+{
+"loginId":"for_fe",
+"password":"mihir"
+
+}
+
+
+2.action=feassignapplication
+
+{
+"loginId":"for_fe",
+"password":"mihir"
+
+}
+
+ URL : http://localhost/audit/web_services/ws_services.php?action=feassignapplication
+
+3.action=serchapplicationdetails
+
+{
+"loginId":"for_fe",
+"password":"mihir",
+"prefix":"MAJGXXMTKGHG",
+"postfix":"56259",
+"applicationId":"8"
+}
+
+URL : http://localhost/audit/web_services/ws_services.php?action=feassignapplication
+
+
+4.action=addapplicationdetailsphoto
+
+{
+"loginId":"for_fe",
+"password":"mihir",
+"appdetailid":"1",
+"appID":"8",
+"photo":"some.jpg"
+}
+
+URL : http://localhost/audit/web_services/ws_services.php?action=addapplicationdetailsphoto
+
+
+5.action=submitapplicationdetails
+
+{
+"loginId":"for_fe",
+"password":"mihir",
+"comment":"some fe comment for app",
+"km":"5",
+"locationId":"1",
+"applicationdetailsID":"1"
+}
+
+URL :http://localhost/audit/web_services/ws_services.php?action=submitapplicationdetails 
+
+6.action=addapplicationlocationphoto
+{
+"appID":"4",
+"locationId":"26",
+"image":"ss.png",
+"loginId":"nadiad_fe",
+"password":"1234"
+}   
+

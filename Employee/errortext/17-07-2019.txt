@@ -1,0 +1,15 @@
+Row 182 & Branchname =SIDHI not match 
+Row 182 & Customer City Name =SIDHI not match 
+Row 182 & Branch =SIDHI and state Madhya Pradeshnot match 
+Row 182 and agency E-GENESIS FINANCIAL SOLUTIONand customercity = SIDHI  not match 
+Row 183 and agency E-GENESIS FINANCIAL SOLUTIONand customercity = BEOHARI  not match 
+Row 184 & Branchname =SIDHI not match 
+Row 184 & Customer City Name =SIDHI not match 
+Row 184 & Branch =SIDHI and state Madhya Pradeshnot match 
+Row 184 and agency E-GENESIS FINANCIAL SOLUTIONand customercity = SIDHI  not match 
+Row 185 & Branchname =SIDHI not match 
+Row 185 & Customer City Name =SIDHI not match 
+Row 185 & Branch =SIDHI and state Madhya Pradeshnot match 
+Row 185 and agency E-GENESIS FINANCIAL SOLUTIONand customercity = SIDHI  not match 
+Row 329 and agency Right Mark consultancyand customercity = VALSAD  not match 
+Row 330 and agency Right Mark consultancyand customercity = ANAND  not match 

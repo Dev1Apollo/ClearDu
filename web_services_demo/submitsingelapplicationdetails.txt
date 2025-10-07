@@ -1,0 +1,1 @@
+{"loginId":"9226023811","password":"9226023811","fos_completed_status":"19","fos_comment":"call on customer mobile number customer said I am out side now call me back later","AlternetMobileNo":"0","ptp_date":"","Payment_Collected_Amount":"0","penal":"0","totalamt":"0","applicationid":"233063","strLatitude":"18.5095342","strLongitude":"73.8509988","strFosOtherRemark":"call back"}

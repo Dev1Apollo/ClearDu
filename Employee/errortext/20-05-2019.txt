@@ -1,0 +1,15 @@
+Row 2 and agency Right Mark consultancyand branch = MAHUVA  not match 
+Row 9 and agency Right Mark consultancyand branch = JAMNAGAR  not match 
+Row 12 and agency Right Mark consultancyand branch = AHMEDABAD  not match 
+Row 14 and agency Right Mark consultancyand branch = MORBI  not match 
+Row 20 and agency Right Mark consultancyand branch = UNA  not match 
+Row 21 and agency Right Mark consultancyand branch = UNA  not match 
+Row 22 and agency Right Mark consultancyand branch = UNA  not match 
+Row 24 and agency Right Mark consultancyand branch = UNA  not match 
+Row 28 and agency Right Mark consultancyand branch = UNA  not match 
+Row 30 and agency Right Mark consultancyand branch = GONDAL  not match 
+Row 31 and agency Right Mark consultancyand branch = GONDAL  not match 
+Row 32 and agency Right Mark consultancyand branch = UNA  not match 
+Row 33 and agency Right Mark consultancyand branch = UNA  not match 
+Row 34 and agency Right Mark consultancyand branch = UNA  not match 
+Row 35 and agency Right Mark consultancyand branch = UNA  not match 

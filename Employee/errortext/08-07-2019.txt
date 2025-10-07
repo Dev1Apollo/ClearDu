@@ -1,0 +1,13 @@
+Row 98 & Branchname =PATHALGAON not match 
+Row 98 & Customer City Name =PATHALGAON not match 
+Row 98 & Branch =PATHALGAON and state Chattisgarhnot match 
+Row 98 and agency INFINITY SERVICESand customercity = PATHALGAON  not match 
+Row 128 and agency Nandani Enterpriseand customercity = HALVAD  not match 
+Row 131 and agency Nandani Enterpriseand customercity = HALVAD  not match 
+Row 136 and agency Nandani Enterpriseand customercity = AHMEDABAD  not match 
+Row 152 and agency Right Mark consultancyand customercity = DAHOD  not match 
+Row 155 & Branchname =MAHIM not match 
+Row 155 & Customer City Name =MAHIM not match 
+Row 155 & Branch =MAHIM and state Maharashtranot match 
+Row 155 and agency SFS Allianz Pvt Ltdand customercity = MAHIM  not match 
+Row 203 and agency VIBRANT DATA CHECKS PVT LTDand customercity = SILVASSA  not match 

@@ -1,0 +1,173 @@
+Web services List
+ URL : http://getdemo.in/audit/web_services/ws_services.php?action=loginfe
+
+1.action=loginfe
+
+{
+"loginId":"loc_emp_hari",
+"password":"mihir"
+
+}
+
+
+2.action=feassignapplication
+
+{
+"loginId":"loc_emp_hari",
+"password":"mihir"
+
+}
+
+ URL : http://getdemo.in/audit/web_services/ws_services.php?action=feassignapplication
+
+3.action=serchapplicationdetails
+
+{
+"loginId":"loc_emp_hari",
+"password":"mihir",
+"prefix":"MAJGXXMTKGHG",
+"postfix":"56259",
+"applicationId":"12"
+}
+
+URL : http://getdemo.in/audit/web_services/ws_services.php?action=serchapplicationdetails
+
+
+4.action=addapplicationdetailsphoto
+
+{
+"loginId":"for_fe",
+"password":"mihir",
+"appdetailid":"1",
+"appID":"10"
+
+}
+
+
+URL : http://getdemo.in/audit/web_services/ws_services.php?action=addapplicationdetailsphoto
+
+
+5.action=submitapplicationdetails
+{
+"loginId":"loc_emp_hari",
+"password":"mihir",
+"comment":"some fe comment for app",
+"token":"1"
+}
+
+URL :http://getdemo.in/audit/web_services/ws_services.php?action=submitapplicationdetails
+
+6.action = serchnotvarifiedlist
+{
+"loginId":"anand_fe",
+"password":"anand_fe",
+"applicationId":"11",
+"prefix":"m",
+"postfix":""
+}
+http://getdemo.in/audit/web_services/ws_services.php?action=serchnotvarifiedlist
+
+7.
+http://getdemo.in/audit/web_services/ws_services.php?action=otherinfolist
+
+{
+"loginId":"anand_fe",
+"password":"anand_fe",
+"applicationdetailsID":"1"
+
+}
+8.
+http://getdemo.in/audit/web_services/ws_services.php?action=otherinfo
+
+{
+"loginId":"anand_fe",
+"password":"anand_fe",
+"ConditionNew":"aaa",
+"Chassis_No":"aaa",
+"Models":"aaa",
+"Vehicle_Verified":"aaa",
+"ODO_Meter":"aaa",
+"Location":"ANAND",
+"Invoice_Verification":"aaa",
+"Status_for_Unsighted_Vehicles":"aaaa",
+"Sold_Invoice_Date":"aaa",
+"Sold_Invoice_No":"aaa",
+"Name_of_the_Customer":"aaa",
+"If_financed_then":"aaa",
+"Final_Payment_Received_Date_From_Customer_Retial_Financier":"aaa",
+"Expected_Date_of_Payment_to_DFSI":"aaa",
+"Availability_Of_Form_21":"aaa",
+"Hypothication_as_per_Form_21_22":"aaa",
+"Original_RC_Status_for_Used_Vehicles":"aaa",
+"Remarks":"aaa",
+"applicationdetailsID":"1"
+
+}
+
+9.
+action = serchnotvarifiedlist
+{
+"loginId":"anand_fe",
+"password":"anand_fe",
+"applicationId":"11",
+"prefix":"m",
+"postfix":""
+}
+http://getdemo.in/audit/web_services/ws_services.php?action=serchnotvarifiedlist
+
+10.
+http://getdemo.in/audit/web_services/ws_services.php?action=addotherinfophoto
+
+loginId:anand_fe
+password:1234
+appID:1
+appdetailid:1
+image:ss.png
+photocomment:hellooooo123
+
+11.
+http://getdemo.in/audit/web_services/ws_services.php?action=verifiedstocks
+{
+
+"loginId":"nadiad_fe",
+"password":"nadiad_fe",
+"Vehicle_Verified":"yes",
+"ODO_Meter":"ss",
+"Invoice_Verification":"ss",
+"HYPO":"ss",
+"Vehicle_Plate_No":"ss",
+"Registered_Temporary_Permanent":"ss",
+"Is_there_any_damage":"ss",
+"Location_verified_Address_other_than_showroom_Yard":"ss",
+"Availability_Of_Form_21":"ss",
+"Availability_Of_Form_22":"ss",
+"Hypothication_as_per_Form_21_22":"ss",
+"Remarks":"ss",
+"Vehicle_found_at":"ss",
+"applicationdetailsID":"3"
+
+}
+
+12.
+http://getdemo.in/audit/web_services/ws_services.php?action=unseenvehicles
+
+	{
+	"loginId":"nadiad_fe",
+	"password":"nadiad_fe",
+	"Sold_Invoice_Date":"ggg",
+	"Sold_Invoice_No":"gg",
+	"Name_of_the_Customer":"gg",
+	"If_financed_then":"gg",
+	"INF_Funding_from":"gg",
+	"Payment_received_from":"gg",
+	"If_Payment_not_received":"gg",
+	"IfVehicle_DemoorTransferred_collect_transfer_note":"gg",
+	"If_Sold_Payment_Recieved_from_Customer":"gg",
+	"D_O_Seen":"gg",
+	"Final_Payment_Received_Date_From_Customer_Retial_Financier":"gg",
+	"Expected_Date_of_Payment_to_DFSI":"gg",
+	"Remarks":"ggg",
+	"Vehicle_found_at":"gg",
+	"applicationdetailsID":"4"
+	
+	}

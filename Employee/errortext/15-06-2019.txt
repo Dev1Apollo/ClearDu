@@ -1,0 +1,6 @@
+Row 166 and agency AMSSand branch = Jam Khambhaliya  not match 
+Row 167 and agency AMSSand branch = Jam Khambhaliya  not match 
+Row 1012 and agency Right Mark consultancyand branch = DAHOD  not match 
+Row 1074 and agency Right Mark consultancyand branch = HALVAD  not match 
+Row 1075 and agency Right Mark consultancyand branch = HALVAD  not match 
+Row 1109 and agency AIRAN LIMITEDand branch = UNA  not match 

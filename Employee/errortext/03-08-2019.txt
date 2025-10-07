@@ -1,0 +1,587 @@
+Row 1 & productname =TW not match <br/>Row 1 & state =Gujrat not match 
+Row 1 & Branch =BARODA and state Gujratnot match 
+Row 2 & productname =TW not match <br/>Row 2 & state =Gujrat not match 
+Row 2 & Branch =GANDHINAGAR and state Gujratnot match 
+Row 3 & productname =TW not match <br/>Row 3 & state =Gujrat not match 
+Row 3 & Branch =RAJKOT and state Gujratnot match 
+Row 3 & Agency =Astute Field not match 
+Row 3 and agency Astute Fieldand customercity = RAJKOT  not match 
+Row 4 & productname =TW not match <br/>Row 4 & state =Gujrat not match 
+Row 4 & Branch =BARDOLI and state Gujratnot match 
+Row 5 & productname =TW not match <br/>Row 6 & productname =TW not match <br/>Row 7 & productname =TW not match <br/>Row 7 & state =Gujrat not match 
+Row 7 & Branch =VYARA and state Gujratnot match 
+Row 8 & productname =TW not match <br/>Row 8 & state =Gujrat not match 
+Row 8 & Branch =ANKLESHWAR and state Gujratnot match 
+Row 9 & productname =TW not match <br/>Row 9 & state =Gujrat not match 
+Row 9 & Branch =VYARA and state Gujratnot match 
+Row 10 & productname =TW not match <br/>Row 10 & state =Gujrat not match 
+Row 10 & Branch =GANDHINAGAR and state Gujratnot match 
+Row 11 & productname =TW not match <br/>Row 11 & state =Gujrat not match 
+Row 11 & Branch =HIMMATNAGAR and state Gujratnot match 
+Row 12 & productname =TW not match <br/>Row 13 & productname =TW not match <br/>Row 13 & state =Gujrat not match 
+Row 13 & Branch =SURAT and state Gujratnot match 
+Row 14 & productname =TW not match <br/>Row 14 & state =Gujrat not match 
+Row 14 & Branch =HIMMATNAGAR and state Gujratnot match 
+Row 15 & productname =TW not match <br/>Row 15 & state =Gujrat not match 
+Row 15 & Branch =MEHSANA and state Gujratnot match 
+Row 15 & Agency =Astute Field not match 
+Row 15 and agency Astute Fieldand customercity = MEHSANA  not match 
+Row 16 & productname =TW not match <br/>Row 16 & state =Gujrat not match 
+Row 16 & Branch =CHIKLI and state Gujratnot match 
+Row 17 & productname =TW not match <br/>Row 17 & state =Gujrat not match 
+Row 17 & Branch =SURAT and state Gujratnot match 
+Row 18 & productname =TW not match <br/>Row 18 & state =Gujrat not match 
+Row 18 & Branch =ANAND and state Gujratnot match 
+Row 19 & productname =TW not match <br/>Row 19 & state =Gujrat not match 
+Row 19 & Branch =ANAND and state Gujratnot match 
+Row 20 & productname =TW not match <br/>Row 20 & state =Gujrat not match 
+Row 20 & Branch =AHMEDABAD and state Gujratnot match 
+Row 21 & productname =TW not match <br/>Row 21 & state =Vidarbha not match 
+Row 21 & Branch =YAVATMAL and state Vidarbhanot match 
+Row 22 & productname =TW not match <br/>Row 22 & state =Gujrat not match 
+Row 22 & Branch =SURAT and state Gujratnot match 
+Row 23 & productname =TW not match <br/>Row 24 & productname =TW not match <br/>Row 24 & state =Gujrat not match 
+Row 24 & Branch =NAVSARI and state Gujratnot match 
+Row 25 & productname =TW not match <br/>Row 25 & state =Gujrat not match 
+Row 25 & Branch =AHMEDABAD and state Gujratnot match 
+Row 25 & Agency =Astute Field not match 
+Row 25 and agency Astute Fieldand customercity = AHMEDABAD  not match 
+Row 26 & productname =TW not match <br/>Row 26 & state =Gujrat not match 
+Row 26 & Branch =AHMEDABAD and state Gujratnot match 
+Row 26 & Agency =Astute Field not match 
+Row 26 and agency Astute Fieldand customercity = AHMEDABAD  not match 
+Row 27 & productname =TW not match <br/>Row 27 & state =Gujrat not match 
+Row 27 & Branch =MUNDRA and state Gujratnot match 
+Row 28 & productname =TW not match <br/>Row 28 & state =Vidarbha not match 
+Row 28 & Branch =WASHIM and state Vidarbhanot match 
+Row 29 & productname =TW not match <br/>Row 30 & productname =TW not match <br/>Row 30 & state =Vidarbha not match 
+Row 30 & Branch =AKOLA and state Vidarbhanot match 
+Row 31 & productname =TW not match <br/>Row 31 & state =Gujrat not match 
+Row 31 & Branch =NADIAD and state Gujratnot match 
+Row 32 & productname =TW not match <br/>Row 32 & state =Gujrat not match 
+Row 32 & Branch =RAJKOT and state Gujratnot match 
+Row 32 & Agency =Astute Field not match 
+Row 32 and agency Astute Fieldand customercity = RAJKOT  not match 
+Row 33 & productname =TW not match <br/>Row 33 & state =Gujrat not match 
+Row 33 & Branch =GANDHINAGAR and state Gujratnot match 
+Row 34 & productname =TW not match <br/>Row 34 & state =Gujrat not match 
+Row 34 & Branch =BARODA and state Gujratnot match 
+Row 35 & productname =TW not match <br/>Row 35 & state =Vidarbha not match 
+Row 35 & Branch =YAVATMAL and state Vidarbhanot match 
+Row 36 & productname =TW not match <br/>Row 36 & state =Gujrat not match 
+Row 36 & Branch =GANDHINAGAR and state Gujratnot match 
+Row 37 & productname =TW not match <br/>Row 37 & state =Vidarbha not match 
+Row 37 & Branch =AKOLA and state Vidarbhanot match 
+Row 38 & productname =TW not match <br/>Row 38 & state =Gujrat not match 
+Row 38 & Branch =VAPI and state Gujratnot match 
+Row 39 & productname =TW not match <br/>Row 39 & state =Gujrat not match 
+Row 39 & Branch =PORBANDAR and state Gujratnot match 
+Row 39 & Agency =Astute Field not match 
+Row 39 and agency Astute Fieldand customercity = PORBANDAR  not match 
+Row 40 & productname =TW not match <br/>Row 40 & state =Vidarbha not match 
+Row 40 & Branch =WASHIM and state Vidarbhanot match 
+Row 41 & productname =TW not match <br/>Row 42 & productname =TW not match <br/>Row 42 & state =Gujrat not match 
+Row 42 & Branch =VYARA and state Gujratnot match 
+Row 43 & productname =TW not match <br/>Row 44 & productname =TW not match <br/>Row 45 & productname =TW not match <br/>Row 46 & productname =TW not match <br/>Row 47 & productname =TW not match <br/>Row 47 & state =Gujrat not match 
+Row 47 & Branch =VYARA and state Gujratnot match 
+Row 48 & productname =TW not match <br/>Row 49 & productname =TW not match <br/>Row 49 & state =Vidarbha not match 
+Row 49 & Branch =WASHIM and state Vidarbhanot match 
+Row 50 & productname =TW not match <br/>Row 51 & productname =TW not match <br/>Row 52 & productname =TW not match <br/>Row 52 & state =Gujrat not match 
+Row 52 & Branch =ANAND and state Gujratnot match 
+Row 53 & productname =TW not match <br/>Row 53 & state =Vidarbha not match 
+Row 53 & Branch =YAVATMAL and state Vidarbhanot match 
+Row 54 & productname =TW not match <br/>Row 54 & state =Gujrat not match 
+Row 54 & Branch =VALSAD and state Gujratnot match 
+Row 55 & productname =TW not match <br/>Row 55 & state =Gujrat not match 
+Row 55 & Branch =VALSAD and state Gujratnot match 
+Row 56 & productname =TW not match <br/>Row 56 & state =Gujrat not match 
+Row 56 & Branch =NADIAD and state Gujratnot match 
+Row 57 & productname =TW not match <br/>Row 57 & state =Gujrat not match 
+Row 57 & Branch =BARDOLI and state Gujratnot match 
+Row 58 & productname =TW not match <br/>Row 58 & state =Gujrat not match 
+Row 58 & Branch =GANDHINAGAR and state Gujratnot match 
+Row 59 & productname =TW not match <br/>Row 60 & productname =TW not match <br/>Row 60 & state =Vidarbha not match 
+Row 60 & Branch =YAVATMAL and state Vidarbhanot match 
+Row 61 & productname =TW not match <br/>Row 62 & productname =TW not match <br/>Row 63 & productname =TW not match <br/>Row 63 & state =Gujrat not match 
+Row 63 & Branch =BARODA and state Gujratnot match 
+Row 64 & productname =TW not match <br/>Row 64 & state =Gujrat not match 
+Row 64 & Branch =SURAT and state Gujratnot match 
+Row 65 & productname =TW not match <br/>Row 65 & state =Vidarbha not match 
+Row 65 & Branch =WASHIM and state Vidarbhanot match 
+Row 66 & productname =TW not match <br/>Row 66 & state =Gujrat not match 
+Row 66 & Branch =MEHSANA and state Gujratnot match 
+Row 67 & productname =TW not match <br/>Row 68 & productname =TW not match <br/>Row 68 & state =Gujrat not match 
+Row 68 & Branch =AHMEDABAD and state Gujratnot match 
+Row 69 & productname =TW not match <br/>Row 70 & productname =TW not match <br/>Row 70 & state =Gujrat not match 
+Row 70 & Branch =AHMEDABAD and state Gujratnot match 
+Row 71 & productname =TW not match <br/>Row 72 & productname =TW not match <br/>Row 72 & state =Gujrat not match 
+Row 72 & Branch =VYARA and state Gujratnot match 
+Row 73 & productname =TW not match <br/>Row 73 & state =Gujrat not match 
+Row 73 & Branch =AHMEDABAD and state Gujratnot match 
+Row 73 & Agency =Astute Field not match 
+Row 73 and agency Astute Fieldand customercity = AHMEDABAD  not match 
+Row 74 & productname =TW not match <br/>Row 75 & productname =TW not match <br/>Row 76 & productname =TW not match <br/>Row 77 & productname =TW not match <br/>Row 77 & state =Vidarbha not match 
+Row 77 & Branch =WASHIM and state Vidarbhanot match 
+Row 78 & productname =TW not match <br/>Row 78 & state =Gujrat not match 
+Row 78 & Branch =ANAND and state Gujratnot match 
+Row 79 & productname =TW not match <br/>Row 79 & state =Gujrat not match 
+Row 79 & Branch =VYARA and state Gujratnot match 
+Row 80 & productname =TW not match <br/>Row 81 & productname =TW not match <br/>Row 82 & productname =TW not match <br/>Row 82 & state =Gujrat not match 
+Row 82 & Branch =GANDHINAGAR and state Gujratnot match 
+Row 83 & productname =TW not match <br/>Row 83 & state =Gujrat not match 
+Row 83 & Branch =VYARA and state Gujratnot match 
+Row 84 & productname =TW not match <br/>Row 84 & state =Gujrat not match 
+Row 84 & Branch =GODHRA and state Gujratnot match 
+Row 85 & productname =TW not match <br/>Row 86 & productname =TW not match <br/>Row 86 & state =Gujrat not match 
+Row 86 & Branch =ANAND and state Gujratnot match 
+Row 87 & productname =TW not match <br/>Row 88 & productname =TW not match <br/>Row 88 & state =Gujrat not match 
+Row 88 & Branch =ANAND and state Gujratnot match 
+Row 89 & productname =TW not match <br/>Row 89 & state =Vidarbha not match 
+Row 89 & Branch =AKOLA and state Vidarbhanot match 
+Row 90 & productname =TW not match <br/>Row 91 & productname =TW not match <br/>Row 92 & productname =TW not match <br/>Row 92 & state =Gujrat not match 
+Row 92 & Branch =AHMEDABAD and state Gujratnot match 
+Row 93 & productname =TW not match <br/>Row 94 & productname =TW not match <br/>Row 95 & productname =TW not match <br/>Row 96 & productname =TW not match <br/>Row 97 & productname =TW not match <br/>Row 97 & state =Vidarbha not match 
+Row 97 & Branch =BULDANA and state Vidarbhanot match 
+Row 98 & productname =TW not match <br/>Row 98 & state =Vidarbha not match 
+Row 98 & Branch =BULDANA and state Vidarbhanot match 
+Row 99 & productname =TW not match <br/>Row 99 & state =Gujrat not match 
+Row 99 & Branch =VAPI and state Gujratnot match 
+Row 99 & Agency =Astute Field not match 
+Row 99 and agency Astute Fieldand customercity = VAPI  not match 
+Row 100 & productname =TW not match <br/>Row 100 & state =Vidarbha not match 
+Row 100 & Branch =WASHIM and state Vidarbhanot match 
+Row 101 & productname =TW not match <br/>Row 101 & state =Gujrat not match 
+Row 101 & Branch =GANDHINAGAR and state Gujratnot match 
+Row 102 & productname =TW not match <br/>Row 103 & productname =TW not match <br/>Row 103 & state =Vidarbha not match 
+Row 103 & Branch =WASHIM and state Vidarbhanot match 
+Row 104 & productname =TW not match <br/>Row 104 & state =Vidarbha not match 
+Row 104 & Branch =BULDANA and state Vidarbhanot match 
+Row 105 & productname =TW not match <br/>Row 105 & state =Gujrat not match 
+Row 105 & Branch =VYARA and state Gujratnot match 
+Row 106 & productname =TW not match <br/>Row 106 & state =Vidarbha not match 
+Row 106 & Branch =YAVATMAL and state Vidarbhanot match 
+Row 107 & productname =TW not match <br/>Row 107 & state =Gujrat not match 
+Row 107 & Branch =UNA and state Gujratnot match 
+Row 108 & productname =TW not match <br/>Row 109 & productname =TW not match <br/>Row 109 & state =Gujrat not match 
+Row 109 & Branch =PORBANDAR and state Gujratnot match 
+Row 110 & productname =TW not match <br/>Row 111 & productname =TW not match <br/>Row 112 & productname =TW not match <br/>Row 112 & state =Vidarbha not match 
+Row 112 & Branch =YAVATMAL and state Vidarbhanot match 
+Row 113 & productname =TW not match <br/>Row 113 & state =Gujrat not match 
+Row 113 & Branch =BARDOLI and state Gujratnot match 
+Row 114 & productname =TW not match <br/>Row 115 & productname =TW not match <br/>Row 116 & productname =TW not match <br/>Row 117 & productname =TW not match <br/>Row 118 & productname =TW not match <br/>Row 118 & state =Gujrat not match 
+Row 118 & Branch =UNA and state Gujratnot match 
+Row 118 & Agency =Astute Field not match 
+Row 118 and agency Astute Fieldand customercity = UNA  not match 
+Row 119 & productname =TW not match <br/>Row 119 & state =Gujrat not match 
+Row 119 & Branch =AHMEDABAD and state Gujratnot match 
+Row 119 & Agency =Astute Field not match 
+Row 119 and agency Astute Fieldand customercity = AHMEDABAD  not match 
+Row 120 & productname =TW not match <br/>Row 120 & state =Gujrat not match 
+Row 120 & Branch =GANDHINAGAR and state Gujratnot match 
+Row 121 & productname =TW not match <br/>Row 122 & productname =TW not match <br/>Row 123 & productname =TW not match <br/>Row 123 & state =Gujrat not match 
+Row 123 & Branch =ANAND and state Gujratnot match 
+Row 124 & productname =TW not match <br/>Row 124 & state =Vidarbha not match 
+Row 124 & Branch =BULDANA and state Vidarbhanot match 
+Row 125 & productname =TW not match <br/>Row 125 & state =Gujrat not match 
+Row 125 & Branch =SILVASSA and state Gujratnot match 
+Row 125 & Agency =Astute Field not match 
+Row 125 and agency Astute Fieldand customercity = SILVASSA  not match 
+Row 126 & productname =TW not match <br/>Row 126 & state =Gujrat not match 
+Row 126 & Branch =UNA and state Gujratnot match 
+Row 126 & Agency =Astute Field not match 
+Row 126 and agency Astute Fieldand customercity = UNA  not match 
+Row 127 & productname =TW not match <br/>Row 127 & state =Gujrat not match 
+Row 127 & Branch =NADIAD and state Gujratnot match 
+Row 128 & productname =TW not match <br/>Row 129 & productname =TW not match <br/>Row 129 & state =Gujrat not match 
+Row 129 & Branch =VERAVAL and state Gujratnot match 
+Row 129 & Agency =Astute Field not match 
+Row 129 and agency Astute Fieldand customercity = VERAVAL  not match 
+Row 130 & productname =TW not match <br/>Row 130 & state =Gujrat not match 
+Row 130 & Branch =SURAT and state Gujratnot match 
+Row 131 & productname =TW not match <br/>Row 131 & Branchname =BAIKUNTPUR MP not match 
+Row 131 & Customer City Name =BAIKUNTPUR MP not match 
+Row 131 & Branch =BAIKUNTPUR MP and state Madhya Pradeshnot match 
+Row 131 and agency HARDIYA ASSOCIATESand customercity = BAIKUNTPUR MP  not match 
+Row 132 & productname =TW not match <br/>Row 132 & state =Gujrat not match 
+Row 132 & Branch =BARODA and state Gujratnot match 
+Row 133 & productname =TW not match <br/>Row 133 & state =Gujrat not match 
+Row 133 & Branch =UNA and state Gujratnot match 
+Row 133 & Agency =Astute Field not match 
+Row 133 and agency Astute Fieldand customercity = UNA  not match 
+Row 134 & productname =TW not match <br/>Row 135 & productname =TW not match <br/>Row 135 & state =Vidarbha not match 
+Row 135 & Branch =YAVATMAL and state Vidarbhanot match 
+Row 136 & productname =TW not match <br/>Row 137 & productname =TW not match <br/>Row 138 & productname =TW not match <br/>Row 139 & productname =TW not match <br/>Row 140 & productname =TW not match <br/>Row 141 & productname =TW not match <br/>Row 142 & productname =TW not match <br/>Row 143 & productname =TW not match <br/>Row 144 & productname =TW not match <br/>Row 144 & state =Gujrat not match 
+Row 144 & Branch =ANKLESHWAR and state Gujratnot match 
+Row 145 & productname =TW not match <br/>Row 146 & productname =TW not match <br/>Row 146 & state =Gujrat not match 
+Row 146 & Branch =MEHSANA and state Gujratnot match 
+Row 147 & productname =TW not match <br/>Row 147 & state =Gujrat not match 
+Row 147 & Branch =BARODA and state Gujratnot match 
+Row 148 & productname =TW not match <br/>Row 148 & state =Gujrat not match 
+Row 148 & Branch =AHMEDABAD and state Gujratnot match 
+Row 148 & Agency =Astute Field not match 
+Row 148 and agency Astute Fieldand customercity = AHMEDABAD  not match 
+Row 149 & productname =TW not match <br/>Row 149 & state =Gujrat not match 
+Row 149 & Branch =SURAT and state Gujratnot match 
+Row 150 & productname =TW not match <br/>Row 151 & productname =TW not match <br/>Row 152 & productname =TW not match <br/>Row 152 & state =Gujrat not match 
+Row 152 & Branch =SURAT and state Gujratnot match 
+Row 152 & Agency =Astute Field not match 
+Row 152 and agency Astute Fieldand customercity = SURAT  not match 
+Row 153 & productname =TW not match <br/>Row 154 & productname =TW not match <br/>Row 154 & state =Gujrat not match 
+Row 154 & Branch =SURAT and state Gujratnot match 
+Row 154 & Agency =Astute Field not match 
+Row 154 and agency Astute Fieldand customercity = SURAT  not match 
+Row 155 & productname =TW not match <br/>Row 155 & state =Vidarbha not match 
+Row 155 & Branch =YAVATMAL and state Vidarbhanot match 
+Row 156 & productname =TW not match <br/>Row 156 & state =Gujrat not match 
+Row 156 & Branch =AHMEDABAD and state Gujratnot match 
+Row 157 & productname =TW not match <br/>Row 158 & productname =TW not match <br/>Row 159 & productname =TW not match <br/>Row 160 & productname =TW not match <br/>Row 160 & state =Gujrat not match 
+Row 160 & Branch =SURAT and state Gujratnot match 
+Row 161 & productname =TW not match <br/>Row 162 & productname =TW not match <br/>Row 163 & productname =TW not match <br/>Row 163 & state =Gujrat not match 
+Row 163 & Branch =BHAVNAGAR and state Gujratnot match 
+Row 163 & Agency =Astute Field not match 
+Row 163 and agency Astute Fieldand customercity = BHAVNAGAR  not match 
+Row 164 & productname =TW not match <br/>Row 164 & state =Gujrat not match 
+Row 164 & Branch =GANDHINAGAR and state Gujratnot match 
+Row 165 & productname =TW not match <br/>Row 166 & productname =TW not match <br/>Row 166 & state =Gujrat not match 
+Row 166 & Branch =SURAT and state Gujratnot match 
+Row 167 & productname =TW not match <br/>Row 167 & state =Vidarbha not match 
+Row 167 & Branch =YAVATMAL and state Vidarbhanot match 
+Row 168 & productname =TW not match <br/>Row 168 & state =Gujrat not match 
+Row 168 & Branch =RAJKOT and state Gujratnot match 
+Row 168 & Agency =Astute Field not match 
+Row 168 and agency Astute Fieldand customercity = RAJKOT  not match 
+Row 169 & productname =TW not match <br/>Row 170 & productname =TW not match <br/>Row 171 & productname =TW not match <br/>Row 171 & state =Gujrat not match 
+Row 171 & Branch =MEHSANA and state Gujratnot match 
+Row 172 & productname =TW not match <br/>Row 172 & state =Gujrat not match 
+Row 172 & Branch =RAJKOT and state Gujratnot match 
+Row 172 & Agency =Astute Field not match 
+Row 172 and agency Astute Fieldand customercity = RAJKOT  not match 
+Row 173 & productname =TW not match <br/>Row 174 & productname =TW not match <br/>Row 175 & productname =TW not match <br/>Row 176 & productname =TW not match <br/>Row 177 & productname =TW not match <br/>Row 178 & productname =TW not match <br/>Row 178 & state =Gujrat not match 
+Row 178 & Branch =MEHSANA and state Gujratnot match 
+Row 179 & productname =TW not match <br/>Row 180 & productname =TW not match <br/>Row 181 & productname =TW not match <br/>Row 181 & state =Gujrat not match 
+Row 181 & Branch =ANAND and state Gujratnot match 
+Row 182 & productname =TW not match <br/>Row 183 & productname =TW not match <br/>Row 183 & state =Gujrat not match 
+Row 183 & Branch =JAMNAGAR and state Gujratnot match 
+Row 184 & productname =TW not match <br/>Row 185 & productname =TW not match <br/>Row 186 & productname =TW not match <br/>Row 186 & state =Gujrat not match 
+Row 186 & Branch =NADIAD and state Gujratnot match 
+Row 187 & productname =TW not match <br/>Row 188 & productname =TW not match <br/>Row 188 & state =Gujrat not match 
+Row 188 & Branch =NADIAD and state Gujratnot match 
+Row 189 & productname =TW not match <br/>Row 189 & state =Gujrat not match 
+Row 189 & Branch =CHIKLI and state Gujratnot match 
+Row 190 & productname =TW not match <br/>Row 191 & productname =TW not match <br/>Row 191 & state =Vidarbha not match 
+Row 191 & Branch =YAVATMAL and state Vidarbhanot match 
+Row 192 & productname =TW not match <br/>Row 192 & state =Gujrat not match 
+Row 192 & Branch =HIMMATNAGAR and state Gujratnot match 
+Row 193 & productname =TW not match <br/>Row 194 & productname =TW not match <br/>Row 194 & state =Gujrat not match 
+Row 194 & Branch =NADIAD and state Gujratnot match 
+Row 195 & productname =TW not match <br/>Row 196 & productname =TW not match <br/>Row 197 & productname =TW not match <br/>Row 197 & state =Gujrat not match 
+Row 197 & Branch =MEHSANA and state Gujratnot match 
+Row 198 & productname =TW not match <br/>Row 199 & productname =TW not match <br/>Row 199 & state =Gujrat not match 
+Row 199 & Branch =DAHOD and state Gujratnot match 
+Row 200 & productname =TW not match <br/>Row 201 & productname =TW not match <br/>Row 201 & state =Gujrat not match 
+Row 201 & Branch =VERAVAL and state Gujratnot match 
+Row 201 & Agency =Astute Field not match 
+Row 201 and agency Astute Fieldand customercity = VERAVAL  not match 
+Row 202 & productname =TW not match <br/>Row 202 & state =Vidarbha not match 
+Row 202 & Branch =AKOLA and state Vidarbhanot match 
+Row 203 & productname =TW not match <br/>Row 204 & productname =TW not match <br/>Row 204 & state =Gujrat not match 
+Row 204 & Branch =VAPI and state Gujratnot match 
+Row 204 & Agency =Astute Field not match 
+Row 204 and agency Astute Fieldand customercity = VAPI  not match 
+Row 205 & productname =TW not match <br/>Row 206 & productname =TW not match <br/>Row 206 & state =Gujrat not match 
+Row 206 & Branch =SURAT and state Gujratnot match 
+Row 206 & Agency =JAYDEEP U DODIYA not match 
+Row 206 and agency JAYDEEP U DODIYAand customercity = SURAT  not match 
+Row 207 & productname =TW not match <br/>Row 208 & productname =TW not match <br/>Row 209 & productname =TW not match <br/>Row 209 & state =Gujrat not match 
+Row 209 & Branch =BARODA and state Gujratnot match 
+Row 210 & productname =TW not match <br/>Row 211 & productname =TW not match <br/>Row 212 & productname =TW not match <br/>Row 213 & productname =TW not match <br/>Row 214 & productname =TW not match <br/>Row 215 & productname =TW not match <br/>Row 215 & state =Gujrat not match 
+Row 215 & Branch =AHMEDABAD and state Gujratnot match 
+Row 216 & productname =TW not match <br/>Row 216 & state =Gujrat not match 
+Row 216 & Branch =RAJKOT and state Gujratnot match 
+Row 217 & productname =TW not match <br/>Row 217 & Branchname =KAWARDHA not match 
+Row 217 & Customer City Name =KAWARDHA not match 
+Row 217 & Branch =KAWARDHA and state Chattisgarhnot match 
+Row 217 and agency INFINITY SERVICESand customercity = KAWARDHA  not match 
+Row 218 & productname =TW not match <br/>Row 219 & productname =TW not match <br/>Row 219 & Branchname =BAIKUNTPUR MP not match 
+Row 219 & Customer City Name =BAIKUNTPUR MP not match 
+Row 219 & Branch =BAIKUNTPUR MP and state Madhya Pradeshnot match 
+Row 219 and agency HARDIYA ASSOCIATESand customercity = BAIKUNTPUR MP  not match 
+Row 220 & productname =TW not match <br/>Row 221 & productname =TW not match <br/>Row 221 & state =Gujrat not match 
+Row 221 & Branch =PORBANDAR and state Gujratnot match 
+Row 221 & Agency =Astute Field not match 
+Row 221 and agency Astute Fieldand customercity = PORBANDAR  not match 
+Row 222 & productname =TW not match <br/>Row 222 & state =Gujrat not match 
+Row 222 & Branch =AHMEDABAD and state Gujratnot match 
+Row 223 & productname =TW not match <br/>Row 223 & state =Gujrat not match 
+Row 223 & Branch =ANAND and state Gujratnot match 
+Row 224 & productname =TW not match <br/>Row 224 & state =Gujrat not match 
+Row 224 & Branch =GANDHINAGAR and state Gujratnot match 
+Row 225 & productname =TW not match <br/>Row 225 & state =Gujrat not match 
+Row 225 & Branch =AHMEDABAD and state Gujratnot match 
+Row 225 & Agency =Astute Field not match 
+Row 225 and agency Astute Fieldand customercity = AHMEDABAD  not match 
+Row 226 & productname =TW not match <br/>Row 227 & productname =TW not match <br/>Row 227 & state =Gujrat not match 
+Row 227 & Branch =DAHOD and state Gujratnot match 
+Row 228 & productname =TW not match <br/>Row 228 & state =Gujrat not match 
+Row 228 & Branch =RAJKOT and state Gujratnot match 
+Row 228 & Agency =Astute Field not match 
+Row 228 and agency Astute Fieldand customercity = RAJKOT  not match 
+Row 229 & productname =TW not match <br/>Row 229 & state =Gujrat not match 
+Row 229 & Branch =AHMEDABAD and state Gujratnot match 
+Row 229 & Agency =Astute Field not match 
+Row 229 and agency Astute Fieldand customercity = AHMEDABAD  not match 
+Row 230 & productname =TW not match <br/>Row 231 & productname =TW not match <br/>Row 231 & state =Gujrat not match 
+Row 231 & Branch =GANDHINAGAR and state Gujratnot match 
+Row 232 & productname =TW not match <br/>Row 233 & productname =TW not match <br/>Row 233 & state =Gujrat not match 
+Row 233 & Branch =ANAND and state Gujratnot match 
+Row 234 & productname =TW not match <br/>Row 235 & productname =TW not match <br/>Row 236 & productname =TW not match <br/>Row 237 & productname =TW not match <br/>Row 238 & productname =TW not match <br/>Row 239 & productname =TW not match <br/>Row 240 & productname =TW not match <br/>Row 241 & productname =TW not match <br/>Row 241 & state =Gujrat not match 
+Row 241 & Branch =VALSAD and state Gujratnot match 
+Row 241 & Agency =Astute Field not match 
+Row 241 and agency Astute Fieldand customercity = VALSAD  not match 
+Row 242 & productname =TW not match <br/>Row 243 & productname =TW not match <br/>Row 244 & productname =TW not match <br/>Row 245 & productname =TW not match <br/>Row 245 & state =Gujrat not match 
+Row 245 & Branch =BARODA and state Gujratnot match 
+Row 246 & productname =TW not match <br/>Row 246 & Branchname =BAIKUNTPUR MP not match 
+Row 246 & Customer City Name =BAIKUNTPUR MP not match 
+Row 246 & Branch =BAIKUNTPUR MP and state Madhya Pradeshnot match 
+Row 246 and agency HARDIYA ASSOCIATESand customercity = BAIKUNTPUR MP  not match 
+Row 247 & productname =TW not match <br/>Row 248 & productname =TW not match <br/>Row 249 & productname =TW not match <br/>Row 250 & productname =TW not match <br/>Row 251 & productname =TW not match <br/>Row 251 & state =Gujrat not match 
+Row 251 & Branch =NADIAD and state Gujratnot match 
+Row 252 & productname =TW not match <br/>Row 253 & productname =TW not match <br/>Row 253 & state =Vidarbha not match 
+Row 253 & Branch =WASHIM and state Vidarbhanot match 
+Row 254 & productname =TW not match <br/>Row 255 & productname =TW not match <br/>Row 256 & productname =TW not match <br/>Row 257 & productname =TW not match <br/>Row 258 & productname =TW not match <br/>Row 259 & productname =TW not match <br/>Row 260 & productname =TW not match <br/>Row 261 & productname =TW not match <br/>Row 262 & productname =TW not match <br/>Row 262 & state =Vidarbha not match 
+Row 262 & Branch =YAVATMAL and state Vidarbhanot match 
+Row 263 & productname =TW not match <br/>Row 264 & productname =TW not match <br/>Row 264 & state =Gujrat not match 
+Row 264 & Branch =BARODA and state Gujratnot match 
+Row 265 & productname =TW not match <br/>Row 266 & productname =TW not match <br/>Row 266 & state =Gujrat not match 
+Row 266 & Branch =BHAVNAGAR and state Gujratnot match 
+Row 266 & Agency =Astute Field not match 
+Row 266 and agency Astute Fieldand customercity = BHAVNAGAR  not match 
+Row 267 & productname =TW not match <br/>Row 267 & state =Gujrat not match 
+Row 267 & Branch =SURAT and state Gujratnot match 
+Row 268 & productname =TW not match <br/>Row 268 & state =Gujrat not match 
+Row 268 & Branch =GODHRA and state Gujratnot match 
+Row 269 & productname =TW not match <br/>Row 270 & productname =TW not match <br/>Row 271 & productname =TW not match <br/>Row 272 & productname =TW not match <br/>Row 272 & state =Gujrat not match 
+Row 272 & Branch =AHMEDABAD and state Gujratnot match 
+Row 272 & Agency =Astute Field not match 
+Row 272 and agency Astute Fieldand customercity = AHMEDABAD  not match 
+Row 273 & productname =TW not match <br/>Row 274 & productname =TW not match <br/>Row 275 & productname =TW not match <br/>Row 276 & productname =TW not match <br/>Row 276 & state =Gujrat not match 
+Row 276 & Branch =SURAT and state Gujratnot match 
+Row 277 & productname =TW not match <br/>Row 277 & state =Gujrat not match 
+Row 277 & Branch =SURAT and state Gujratnot match 
+Row 278 & productname =TW not match <br/>Row 279 & productname =TW not match <br/>Row 279 & state =Gujrat not match 
+Row 279 & Branch =SURAT and state Gujratnot match 
+Row 280 & productname =TW not match <br/>Row 280 & state =Gujrat not match 
+Row 280 & Branch =BARDOLI and state Gujratnot match 
+Row 281 & productname =TW not match <br/>Row 282 & productname =TW not match <br/>Row 283 & productname =TW not match <br/>Row 284 & productname =TW not match <br/>Row 284 & state =Gujrat not match 
+Row 284 & Branch =AHMEDABAD and state Gujratnot match 
+Row 284 & Agency =Astute Field not match 
+Row 284 and agency Astute Fieldand customercity = AHMEDABAD  not match 
+Row 285 & productname =TW not match <br/>Row 286 & productname =TW not match <br/>Row 286 & state =Gujrat not match 
+Row 286 & Branch =NADIAD and state Gujratnot match 
+Row 287 & productname =TW not match <br/>Row 288 & productname =TW not match <br/>Row 289 & productname =TW not match <br/>Row 290 & productname =TW not match <br/>Row 290 & state =Gujrat not match 
+Row 290 & Branch =AHMEDABAD and state Gujratnot match 
+Row 290 & Agency =Astute Field not match 
+Row 290 and agency Astute Fieldand customercity = AHMEDABAD  not match 
+Row 291 & productname =TW not match <br/>Row 292 & productname =TW not match <br/>Row 293 & productname =TW not match <br/>Row 294 & productname =TW not match <br/>Row 294 & state =Gujrat not match 
+Row 294 & Branch =SURAT and state Gujratnot match 
+Row 295 & productname =TW not match <br/>Row 296 & productname =TW not match <br/>Row 296 & state =Gujrat not match 
+Row 296 & Branch =GODHRA and state Gujratnot match 
+Row 297 & productname =TW not match <br/>Row 298 & productname =TW not match <br/>Row 299 & productname =TW not match <br/>Row 300 & productname =TW not match <br/>Row 301 & productname =TW not match <br/>Row 302 & productname =TW not match <br/>Row 302 & state =Gujrat not match 
+Row 302 & Branch =AHMEDABAD and state Gujratnot match 
+Row 303 & productname =TW not match <br/>Row 304 & productname =TW not match <br/>Row 304 & state =Gujrat not match 
+Row 304 & Branch =ANAND and state Gujratnot match 
+Row 305 & productname =TW not match <br/>Row 305 & state =Gujrat not match 
+Row 305 & Branch =AHMEDABAD and state Gujratnot match 
+Row 305 & Agency =Astute Field not match 
+Row 305 and agency Astute Fieldand customercity = AHMEDABAD  not match 
+Row 306 & productname =TW not match <br/>Row 306 & state =Vidarbha not match 
+Row 306 & Branch =AKOLA and state Vidarbhanot match 
+Row 307 & productname =TW not match <br/>Row 308 & productname =TW not match <br/>Row 308 & state =Gujrat not match 
+Row 308 & Branch =AHMEDABAD and state Gujratnot match 
+Row 309 & productname =TW not match <br/>Row 310 & productname =TW not match <br/>Row 311 & productname =TW not match <br/>Row 311 & state =Gujrat not match 
+Row 311 & Branch =DAHOD and state Gujratnot match 
+Row 312 & productname =TW not match <br/>Row 313 & productname =TW not match <br/>Row 314 & productname =TW not match <br/>Row 315 & productname =TW not match <br/>Row 315 & state =Gujrat not match 
+Row 315 & Branch =VALSAD and state Gujratnot match 
+Row 315 & Agency =Astute Field not match 
+Row 315 and agency Astute Fieldand customercity = VALSAD  not match 
+Row 316 & productname =TW not match <br/>Row 317 & productname =TW not match <br/>Row 318 & productname =TW not match <br/>Row 319 & productname =TW not match <br/>Row 320 & productname =TW not match <br/>Row 321 & productname =TW not match <br/>Row 322 & productname =TW not match <br/>Row 323 & productname =TW not match <br/>Row 323 & state =Vidarbha not match 
+Row 323 & Branch =BULDANA and state Vidarbhanot match 
+Row 324 & productname =TW not match <br/>Row 325 & productname =TW not match <br/>Row 325 & state =Gujrat not match 
+Row 325 & Branch =AHMEDABAD and state Gujratnot match 
+Row 326 & productname =TW not match <br/>Row 327 & productname =TW not match <br/>Row 327 & state =Gujrat not match 
+Row 327 & Branch =SURAT and state Gujratnot match 
+Row 328 & productname =TW not match <br/>Row 329 & productname =TW not match <br/>Row 330 & productname =TW not match <br/>Row 331 & productname =TW not match <br/>Row 332 & productname =TW not match <br/>Row 332 & state =Gujrat not match 
+Row 332 & Branch =MEHSANA and state Gujratnot match 
+Row 333 & productname =TW not match <br/>Row 333 & state =Gujrat not match 
+Row 333 & Branch =AHMEDABAD and state Gujratnot match 
+Row 333 & Agency =Astute Field not match 
+Row 333 and agency Astute Fieldand customercity = AHMEDABAD  not match 
+Row 334 & productname =TW not match <br/>Row 335 & productname =TW not match <br/>Row 335 & state =Gujrat not match 
+Row 335 & Branch =AHMEDABAD and state Gujratnot match 
+Row 335 & Agency =Astute Field not match 
+Row 335 and agency Astute Fieldand customercity = AHMEDABAD  not match 
+Row 336 & productname =TW not match <br/>Row 337 & productname =TW not match <br/>Row 338 & productname =TW not match <br/>Row 339 & productname =TW not match <br/>Row 339 & state =Gujrat not match 
+Row 339 & Branch =AHMEDABAD and state Gujratnot match 
+Row 340 & productname =TW not match <br/>Row 341 & productname =TW not match <br/>Row 342 & productname =TW not match <br/>Row 342 & state =Gujrat not match 
+Row 342 & Branch =AHMEDABAD and state Gujratnot match 
+Row 343 & productname =TW not match <br/>Row 344 & productname =TW not match <br/>Row 345 & productname =TW not match <br/>Row 346 & productname =TW not match <br/>Row 346 & Agency =Afford Motors India Pvt Ltd not match 
+Row 346 and agency Afford Motors India Pvt Ltdand customercity = BANDA MP  not match 
+Row 347 & productname =TW not match <br/>Row 348 & productname =TW not match <br/>Row 348 & state =Gujrat not match 
+Row 348 & Branch =MORBI and state Gujratnot match 
+Row 348 & Agency =Astute Field not match 
+Row 348 and agency Astute Fieldand customercity = MORBI  not match 
+Row 349 & productname =TW not match <br/>Row 350 & productname =TW not match <br/>Row 350 & state =Gujrat not match 
+Row 350 & Branch =ANKLESHWAR and state Gujratnot match 
+Row 351 & productname =TW not match <br/>Row 351 & state =Vidarbha not match 
+Row 351 & Branch =BULDANA and state Vidarbhanot match 
+Row 352 & productname =TW not match <br/>Row 353 & productname =TW not match <br/>Row 354 & productname =TW not match <br/>Row 355 & productname =TW not match <br/>Row 356 & productname =TW not match <br/>Row 357 & productname =TW not match <br/>Row 357 & state =Vidarbha not match 
+Row 357 & Branch =WASHIM and state Vidarbhanot match 
+Row 358 & productname =TW not match <br/>Row 359 & productname =TW not match <br/>Row 360 & productname =TW not match <br/>Row 360 & state =Gujrat not match 
+Row 360 & Branch =AHMEDABAD and state Gujratnot match 
+Row 361 & productname =TW not match <br/>Row 361 & state =Vidarbha not match 
+Row 361 & Branch =AKOLA and state Vidarbhanot match 
+Row 362 & productname =TW not match <br/>Row 363 & productname =TW not match <br/>Row 364 & productname =TW not match <br/>Row 364 & state =Vidarbha not match 
+Row 364 & Branch =WASHIM and state Vidarbhanot match 
+Row 365 & productname =TW not match <br/>Row 366 & productname =TW not match <br/>Row 366 & state =Gujrat not match 
+Row 366 & Branch =AHMEDABAD and state Gujratnot match 
+Row 366 & Agency =Astute Field not match 
+Row 366 and agency Astute Fieldand customercity = AHMEDABAD  not match 
+Row 367 & productname =TW not match <br/>Row 368 & productname =TW not match <br/>Row 369 & productname =TW not match <br/>Row 370 & productname =TW not match <br/>Row 371 & productname =TW not match <br/>Row 371 & state =Gujrat not match 
+Row 371 & Branch =AHMEDABAD and state Gujratnot match 
+Row 371 & Agency =Astute Field not match 
+Row 371 and agency Astute Fieldand customercity = AHMEDABAD  not match 
+Row 372 & productname =TW not match <br/>Row 373 & productname =TW not match <br/>Row 374 & productname =TW not match <br/>Row 375 & productname =TW not match <br/>Row 376 & productname =TW not match <br/>Row 377 & productname =TW not match <br/>Row 378 & productname =TW not match <br/>Row 378 & state =Gujrat not match 
+Row 378 & Branch =SURAT and state Gujratnot match 
+Row 378 & Agency =JAYDEEP U DODIYA not match 
+Row 378 and agency JAYDEEP U DODIYAand customercity = SURAT  not match 
+Row 379 & productname =TW not match <br/>Row 380 & productname =TW not match <br/>Row 381 & productname =TW not match <br/>Row 382 & productname =TW not match <br/>Row 382 & state =Gujrat not match 
+Row 382 & Branch =UNA and state Gujratnot match 
+Row 382 & Agency =Astute Field not match 
+Row 382 and agency Astute Fieldand customercity = UNA  not match 
+Row 383 & productname =TW not match <br/>Row 383 & state =Gujrat not match 
+Row 383 & Branch =RAJKOT and state Gujratnot match 
+Row 383 & Agency =Astute Field not match 
+Row 383 and agency Astute Fieldand customercity = RAJKOT  not match 
+Row 384 & productname =TW not match <br/>Row 385 & productname =TW not match <br/>Row 385 & Branchname =BAIKUNTPUR MP not match 
+Row 385 & Customer City Name =BAIKUNTPUR MP not match 
+Row 385 & Branch =BAIKUNTPUR MP and state Madhya Pradeshnot match 
+Row 385 and agency HARDIYA ASSOCIATESand customercity = BAIKUNTPUR MP  not match 
+Row 386 & productname =TW not match <br/>Row 386 & state =Gujrat not match 
+Row 386 & Branch =ANAND and state Gujratnot match 
+Row 387 & productname =TW not match <br/>Row 387 & state =Gujrat not match 
+Row 387 & Branch =UNA and state Gujratnot match 
+Row 388 & productname =TW not match <br/>Row 388 & Branchname =KAWARDHA not match 
+Row 388 & Customer City Name =KAWARDHA not match 
+Row 388 & Branch =KAWARDHA and state Chattisgarhnot match 
+Row 388 and agency INFINITY SERVICESand customercity = KAWARDHA  not match 
+Row 389 & productname =TW not match <br/>Row 390 & productname =TW not match <br/>Row 391 & productname =TW not match <br/>Row 392 & productname =TW not match <br/>Row 393 & productname =TW not match <br/>Row 394 & productname =TW not match <br/>Row 394 & state =Gujrat not match 
+Row 394 & Branch =AHMEDABAD and state Gujratnot match 
+Row 395 & productname =TW not match <br/>Row 396 & productname =TW not match <br/>Row 397 & productname =TW not match <br/>Row 398 & productname =TW not match <br/>Row 399 & productname =TW not match <br/>Row 400 & productname =TW not match <br/>Row 400 & state =Vidarbha not match 
+Row 400 & Branch =WASHIM and state Vidarbhanot match 
+Row 401 & productname =TW not match <br/>Row 401 & state =Vidarbha not match 
+Row 401 & Branch =WASHIM and state Vidarbhanot match 
+Row 402 & productname =TW not match <br/>Row 403 & productname =TW not match <br/>Row 403 & state =Gujrat not match 
+Row 403 & Branch =JUNAGADH and state Gujratnot match 
+Row 403 & Agency =Astute Field not match 
+Row 403 and agency Astute Fieldand customercity = JUNAGADH  not match 
+Row 404 & productname =TW not match <br/>Row 405 & productname =TW not match <br/>Row 405 & state =Gujrat not match 
+Row 405 & Branch =AHMEDABAD and state Gujratnot match 
+Row 405 & Agency =Astute Field not match 
+Row 405 and agency Astute Fieldand customercity = AHMEDABAD  not match 
+Row 406 & productname =TW not match <br/>Row 407 & productname =TW not match <br/>Row 408 & productname =TW not match <br/>Row 408 & state =Gujrat not match 
+Row 408 & Branch =VAPI and state Gujratnot match 
+Row 409 & productname =TW not match <br/>Row 409 & state =Gujrat not match 
+Row 409 & Branch =GODHRA and state Gujratnot match 
+Row 410 & productname =TW not match <br/>Row 411 & productname =TW not match <br/>Row 412 & productname =TW not match <br/>Row 412 & state =Gujrat not match 
+Row 412 & Branch =AHMEDABAD and state Gujratnot match 
+Row 412 & Agency =Astute Field not match 
+Row 412 and agency Astute Fieldand customercity = AHMEDABAD  not match 
+Row 413 & productname =TW not match <br/>Row 413 & state =Gujrat not match 
+Row 413 & Branch =AHMEDABAD and state Gujratnot match 
+Row 413 & Agency =Astute Field not match 
+Row 413 and agency Astute Fieldand customercity = AHMEDABAD  not match 
+Row 414 & productname =TW not match <br/>Row 415 & productname =TW not match <br/>Row 415 & state =Gujrat not match 
+Row 415 & Branch =MORBI and state Gujratnot match 
+Row 415 & Agency =Astute Field not match 
+Row 415 and agency Astute Fieldand customercity = MORBI  not match 
+Row 416 & productname =TW not match <br/>Row 416 & state =Gujrat not match 
+Row 416 & Branch =UNA and state Gujratnot match 
+Row 416 & Agency =Astute Field not match 
+Row 416 and agency Astute Fieldand customercity = UNA  not match 
+Row 417 & productname =TW not match <br/>Row 418 & productname =TW not match <br/>Row 418 & state =Gujrat not match 
+Row 418 & Branch =RAJKOT and state Gujratnot match 
+Row 418 & Agency =Astute Field not match 
+Row 418 and agency Astute Fieldand customercity = RAJKOT  not match 
+Row 419 & productname =TW not match <br/>Row 420 & productname =TW not match <br/>Row 420 & state =Gujrat not match 
+Row 420 & Branch =SURAT and state Gujratnot match 
+Row 420 & Agency =Astute Field not match 
+Row 420 and agency Astute Fieldand customercity = SURAT  not match 
+Row 421 & productname =TW not match <br/>Row 421 & state =Gujrat not match 
+Row 421 & Branch =GONDAL and state Gujratnot match 
+Row 421 & Agency =Astute Field not match 
+Row 421 and agency Astute Fieldand customercity = GONDAL  not match 
+Row 422 & productname =TW not match <br/>Row 423 & productname =TW not match <br/>Row 424 & productname =TW not match <br/>Row 424 & state =Gujrat not match 
+Row 424 & Branch =VAPI and state Gujratnot match 
+Row 424 & Agency =Astute Field not match 
+Row 424 and agency Astute Fieldand customercity = VAPI  not match 
+Row 425 & productname =TW not match <br/>Row 426 & productname =TW not match <br/>Row 426 & state =Gujrat not match 
+Row 426 & Branch =AHMEDABAD and state Gujratnot match 
+Row 426 & Agency =Astute Field not match 
+Row 426 and agency Astute Fieldand customercity = AHMEDABAD  not match 
+Row 427 & productname =TW not match <br/>Row 428 & productname =TW not match <br/>Row 428 & state =Gujrat not match 
+Row 428 & Branch =BARODA and state Gujratnot match 
+Row 429 & productname =TW not match <br/>Row 430 & productname =TW not match <br/>Row 431 & productname =TW not match <br/>Row 431 & state =Gujrat not match 
+Row 431 & Branch =MORBI and state Gujratnot match 
+Row 431 & Agency =Astute Field not match 
+Row 431 and agency Astute Fieldand customercity = MORBI  not match 
+Row 432 & productname =TW not match <br/>Row 433 & productname =TW not match <br/>Row 433 & state =Gujrat not match 
+Row 433 & Branch =NADIAD and state Gujratnot match 
+Row 434 & productname =TW not match <br/>Row 434 & state =Gujrat not match 
+Row 434 & Branch =GODHRA and state Gujratnot match 
+Row 435 & productname =TW not match <br/>Row 435 & state =Gujrat not match 
+Row 435 & Branch =ANAND and state Gujratnot match 
+Row 436 & productname =TW not match <br/>Row 437 & productname =TW not match <br/>Row 438 & productname =TW not match <br/>Row 439 & productname =TW not match <br/>Row 440 & productname =TW not match <br/>Row 441 & productname =TW not match <br/>Row 442 & productname =TW not match <br/>Row 443 & productname =TW not match <br/>Row 444 & productname =TW not match <br/>Row 445 & productname =TW not match <br/>Row 445 & state =Gujrat not match 
+Row 445 & Branch =VAPI and state Gujratnot match 
+Row 445 & Agency =Astute Field not match 
+Row 445 and agency Astute Fieldand customercity = VAPI  not match 
+Row 446 & productname =TW not match <br/>Row 447 & productname =TW not match <br/>Row 448 & productname =TW not match <br/>Row 449 & productname =TW not match <br/>Row 450 & productname =TW not match <br/>Row 451 & productname =TW not match <br/>Row 451 & state =Gujrat not match 
+Row 451 & Branch =SURAT and state Gujratnot match 
+Row 452 & productname =TW not match <br/>Row 452 & state =Gujrat not match 
+Row 452 & Branch =CHIKLI and state Gujratnot match 
+Row 453 & productname =TW not match <br/>Row 453 & state =Gujrat not match 
+Row 453 & Branch =AHMEDABAD and state Gujratnot match 
+Row 453 & Agency =Astute Field not match 
+Row 453 and agency Astute Fieldand customercity = AHMEDABAD  not match 
+Row 454 & productname =TW not match <br/>Row 454 & state =Gujrat not match 
+Row 454 & Branch =MEHSANA and state Gujratnot match 
+Row 454 & Agency =Astute Field not match 
+Row 454 and agency Astute Fieldand customercity = MEHSANA  not match 
+Row 455 & productname =TW not match <br/>Row 455 & state =Gujrat not match 
+Row 455 & Branch =UNA and state Gujratnot match 
+Row 455 & Agency =Astute Field not match 
+Row 455 and agency Astute Fieldand customercity = UNA  not match 
+Row 456 & productname =TW not match <br/>Row 456 & state =Vidarbha not match 
+Row 456 & Branch =YAVATMAL and state Vidarbhanot match 
+Row 457 & productname =TW not match <br/>Row 457 & state =Vidarbha not match 
+Row 457 & Branch =AKOLA and state Vidarbhanot match 
+Row 458 & productname =TW not match <br/>Row 459 & productname =TW not match <br/>Row 460 & productname =TW not match <br/>Row 460 & state =Gujrat not match 
+Row 460 & Branch =VAPI and state Gujratnot match 
+Row 460 & Agency =Astute Field not match 
+Row 460 and agency Astute Fieldand customercity = VAPI  not match 
+Row 461 & productname =TW not match <br/>Row 462 & productname =TW not match <br/>Row 463 & productname =TW not match <br/>Row 463 & state =Gujrat not match 
+Row 463 & Branch =BARODA and state Gujratnot match 
+Row 464 & productname =TW not match <br/>Row 464 & state =Gujrat not match 
+Row 464 & Branch =RAJKOT and state Gujratnot match 
+Row 464 & Agency =Astute Field not match 
+Row 464 and agency Astute Fieldand customercity = RAJKOT  not match 
+Row 465 & productname =TW not match <br/>Row 465 & state =Gujrat not match 
+Row 465 & Branch =AHMEDABAD and state Gujratnot match 
+Row 466 & productname =TW not match <br/>Row 466 & state =Gujrat not match 
+Row 466 & Branch =JAMNAGAR and state Gujratnot match 
+Row 466 & Agency =Astute Field not match 
+Row 466 and agency Astute Fieldand customercity = JAMNAGAR  not match 
+Row 467 & productname =TW not match <br/>Row 467 & state =Gujrat not match 
+Row 467 & Branch =SURAT and state Gujratnot match 
+Row 468 & productname =TW not match <br/>Row 468 & state =Vidarbha not match 
+Row 468 & Branch =YAVATMAL and state Vidarbhanot match 
+Row 469 & productname =TW not match <br/>Row 470 & productname =TW not match <br/>

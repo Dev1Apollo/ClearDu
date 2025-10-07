@@ -1,0 +1,74 @@
+Base Url : https://astutemanagement.co.in/credsure/web_services/ws_services.php?action=
+
+1) url : https://astutemanagement.co.in/credsure/web_services/ws_services.php?action=loginfos
+Action = loginfos
+Request : {
+    "loginId" : "ardent1",
+    "password" : "ardent1"
+} 
+
+Response : 
+{
+   "FosDetail": {
+     "agencymanagerid": "2003",
+     "agencyname": "16",
+     "employeename": "Ardent1",
+     "type": "FOS",
+     "address": "ardent1",
+     "loginId": "ardent1",
+     "password": "F53YH75aLN\/JVCrbJsPJNCgPu+5n+F\/UASmo2aA6vHbAR\/MzoD1zTe67toq9ufLiF8n8rEpewxO+FxZ+UOnIAQCRO3NN07qAM65MfLQRiK\/nBDAvU9mge7N\/i\/dlJys\/",
+     "salt": "OWQxMTk0MTk2YTM4NDIyZjIxZDBkZTMxYWM3ZTYwZjA3MDVlMDk5MTUxZTQ5MjQ1MzI3MTU1NGZjYTBhNjE4ZGEzOWRkNjViZmMxYTExNDgzYTNhMWZiZDkyNmQxNWMy",
+     "LastLogin": null,
+     "strEntryDate": "14-07-2023 15:13:20",
+     "strIP": "106.214.126.238",
+     "istatus": "1",
+     "isDelete": "0"
+   },
+   "message": "login sucessfull",
+   "success": "1"
+}
+
+2) Url : https://astutemanagement.co.in/credsure/web_services/ws_services.php?action=fosdeshbord
+Action : fosdeshbord
+Request : {
+    "loginId" : "ardent1",
+    "password" : "ardent1"
+} 
+
+{
+    "fosdeshbordcount": [{
+        "fosstatusdrropdownid": "1",
+        "status": "Payment Collected",
+        "StatusCount": "0"
+    }, {
+        "fosstatusdrropdownid": "2",
+        "status": "Refuse to Pay",
+        "StatusCount": "0"
+    }, {
+        "fosstatusdrropdownid": "4",
+        "status": "Customer Not Available",
+        "StatusCount": "0"
+    }, {
+        "fosstatusdrropdownid": "7",
+        "status": "Already Paid",
+        "StatusCount": "0"
+    }, {
+        "fosstatusdrropdownid": "5",
+        "status": "PTP for the day",
+        "StatusCount": "0"
+    }, {
+        "fosstatusdrropdownid": "5",
+        "status": "PTP For-The-Day",
+        "StatusCount": "0"
+    }, {
+        "fosstatusdrropdownid": "3",
+        "status": "PTP Reschdule",
+        "StatusCount": "0"
+    }, {
+        "fosstatusdrropdownid": "17",
+        "status": "Broken PTP",
+        "StatusCount": "0"
+    }],
+    "message": "Data Found",
+    "success": "1"
+}

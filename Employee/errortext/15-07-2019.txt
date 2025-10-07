@@ -1,0 +1,5 @@
+Row 85 and agency CHOPRA ASSOCIATESand customercity = LIDHORA  not match 
+Row 198 and agency HARDIYA ASSOCIATESand customercity = BIAORA  not match 
+Row 938 and agency HARDIYA ASSOCIATESand customercity = NARSINGPUR  not match 
+Row 990 and agency HARDIYA ASSOCIATESand customercity = SATNA  not match 
+Row 1198 and agency MITHLESH FUND CAREand customercity = REWA  not match 

@@ -1,0 +1,16 @@
+[26-Apr-2024 08:25:07 UTC] PHP Warning:  strstr() expects parameter 1 to be string, array given in /home/httpastutemanage/public_html/credsure/PHPMailer-master/test/test_callback.php on line 65
+[09-May-2024 20:47:40 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit_Framework_TestCase' not found in /home/httpastutemanage/public_html/credsure/PHPMailer-master/test/phpmailerLangTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/httpastutemanage/public_html/credsure/PHPMailer-master/test/phpmailerLangTest.php on line 22
+[15-May-2024 17:21:08 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/httpastutemanage/public_html/credsure/PHPMailer-master/test/bootstrap.php on line 2
+[15-May-2024 17:21:08 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/httpastutemanage/public_html/credsure/PHPMailer-master/test/bootstrap.php on line 2
+[16-May-2024 03:23:33 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit_Framework_TestCase' not found in /home/httpastutemanage/public_html/credsure/PHPMailer-master/test/phpmailerTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/httpastutemanage/public_html/credsure/PHPMailer-master/test/phpmailerTest.php on line 22
+[07-Jul-2024 17:47:49 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit_Framework_TestCase' not found in /home/httpastutemanage/public_html/credsure/PHPMailer-master/test/phpmailerLangTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/httpastutemanage/public_html/credsure/PHPMailer-master/test/phpmailerLangTest.php on line 22
+[21-Jul-2024 00:59:52 UTC] PHP Warning:  strstr() expects parameter 1 to be string, array given in /home/httpastutemanage/public_html/credsure/PHPMailer-master/test/test_callback.php on line 65

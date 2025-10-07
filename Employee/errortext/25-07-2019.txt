@@ -1,0 +1,23 @@
+Row 1 and AccountNo RKTTWL00100001777692 match 
+Row 1 and App_Id 2306236 Match 
+Row 2 and AccountNo RKTTWL00100002189556 match 
+Row 2 and App_Id 2822529 Match 
+Row 3 and AccountNo JUGTWL00100002543866 match 
+Row 3 and App_Id 3259251 Match 
+Row 4 and AccountNo RKTTWL00100003948565 match 
+Row 4 and App_Id 5159564 Match 
+Row 5 and AccountNo BRDTWL00100002277253 match 
+Row 5 and App_Id 2988851 Match 
+Row 6 and AccountNo JUGTWL00100001679012 match 
+Row 6 and App_Id 2161476 Match 
+Row 7 and AccountNo BRDTWL00100003517676 match 
+Row 7 and App_Id 4529134 Match 
+Row 8 and AccountNo BRDTWL00100002476810 match 
+Row 8 and App_Id 3222444 Match 
+Row 9 and AccountNo JUGTWL00100001085430 match 
+Row 9 and App_Id 1393018 Match 
+Row 10 and AccountNo JUGTWL00100003939180 match 
+Row 10 and App_Id 5148793 Match 
+Row 11 and AccountNo RKTTWL00100002340940 match 
+Row 11 and App_Id 3067368 Match 
+Column Not found in excel Allocation CODE<br/>Column Not found in excel PRODUCT<br/>Column Not found in excel State<br/>Column Not found in excel Contact Detail ref2<br/>Column Not found in excel Ref_2_Name<br/>Column Not found in excel Contact Detail<br/>Column Not found in excel Ref_1_Name<br/>Column Not found in excel State Manager<br/>Column Not found in excel Collection Manager<br/>Column Not found in excel Contact Number<br/>Column Not found in excel Customer Address<br/>Column Not found in excel Tenure<br/>Column Not found in excel Supplier<br/>Column Not found in excel Vehicle Registration No<br/>Column Not found in excel Principal outstanding<br/>Column Not found in excel Total penlty<br/>Column Not found in excel Lpp<br/>Column Not found in excel Bcc<br/>Column Not found in excel Installment Overdue Amount<br/>Column Not found in excel Emi amount<br/>Column Not found in excel Due date<br/>Column Not found in excel Frist Emi Date<br/>Column Not found in excel Loan maturity date<br/>Column Not found in excel Loan booking Date<br/>Column Not found in excel Loan amount<br/>Column Not found in excel Bounce Reason<br/>Column Not found in excel Allocation Date<br/>Column Not found in excel Due Month<br/>Column Not found in excel Branch<br/>Column Not found in excel Asset Make<br/>Column Not found in excel Fathers name<br/>Column Not found in excel Customer Name<br/>Column Not found in excel Bkt<br/>Column Not found in excel App Id<br/>Column Not found in excel Account No<br/>Column Not found in excel Sr.No<br/>Column Not found in excel Agency_name<br/>Column Not found in excel Pincode<br/>Column Not found in excel PTP Date<br/>Column Not found in excel PTP Amount<br/>Column Not found in excel Time Slot<br/>Column Not found in excel Customer City<br/>Column Not found in excel Visit Address<br/>Column Not found in excel Alternate Contact Number<br/>

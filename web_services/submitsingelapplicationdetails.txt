@@ -1,0 +1,1 @@
+{"loginId":"8328931871","password":"8328931871","fos_completed_status":"18","fos_comment":"Commited to pay this month ","AlternetMobileNo":"0","ptp_date":"","Payment_Collected_Amount":"0","penal":"0","totalamt":"0","applicationid":"223576","strLatitude":"20.1776976","strLongitude":"86.1626176","strFosOtherRemark":""}

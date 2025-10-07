@@ -1,0 +1,8 @@
+Row 5 and agency AIRAN LIMITEDand branch = PATAN  not match 
+Row 10 and agency AIRAN LIMITEDand branch = PATAN  not match 
+Row 11 and agency AIRAN LIMITEDand branch = PATAN  not match 
+Row 16 and agency AIRAN LIMITEDand branch = PATAN  not match 
+Row 19 & Branchname =JAMKHAMBHALIYA not match 
+Row 19 & Branch =JAMKHAMBHALIYA and state Gujaratnot match 
+Row 19 and agency AIRAN LIMITEDand branch = JAMKHAMBHALIYA  not match 
+Row 24 and agency AIRAN LIMITEDand branch = PALANPUR  not match 

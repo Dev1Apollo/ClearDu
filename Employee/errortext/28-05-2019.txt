@@ -1,0 +1,9 @@
+Row 22 and agency Right Mark consultancyand branch = PATAN  not match 
+Row 23 and agency Right Mark consultancyand branch = PATAN  not match 
+Row 24 and agency Right Mark consultancyand branch = PATAN  not match 
+Row 26 and agency Right Mark consultancyand branch = JAMNAGAR  not match 
+Row 27 and agency Right Mark consultancyand branch = MODASA  not match 
+Row 28 and agency Right Mark consultancyand branch = MODASA  not match 
+Row 29 and agency Right Mark consultancyand branch = MODASA  not match 
+Row 30 and agency Right Mark consultancyand branch = PALANPUR  not match 
+Row 32 and agency Right Mark consultancyand branch = PATAN  not match 

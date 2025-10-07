@@ -1,0 +1,238 @@
+Row 1 & Agency =AIREN LIMITED not match 
+Row 1 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 2 & Agency =AIREN LIMITED not match 
+Row 2 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 3 & Agency =AIREN LIMITED not match 
+Row 3 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 4 & Agency =AIREN LIMITED not match 
+Row 4 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 5 & Agency =AIREN LIMITED not match 
+Row 5 and agency AIREN LIMITEDand branch = SURAT  not match 
+Row 6 & Agency =AIREN LIMITED not match 
+Row 6 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 7 & Agency =AIREN LIMITED not match 
+Row 7 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 8 and AccountNo RKTTWL00100002390363 match 
+Row 8 and App_Id 3135931 Match 
+Row 8 & Agency =AIREN LIMITED not match 
+Row 8 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 9 & Agency =AIREN LIMITED not match 
+Row 9 and agency AIREN LIMITEDand branch = SURAT  not match 
+Row 10 & Agency =AIREN LIMITED not match 
+Row 10 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 11 & Agency =AIREN LIMITED not match 
+Row 11 and agency AIREN LIMITEDand branch = SURAT  not match 
+Row 12 & Agency =AIREN LIMITED not match 
+Row 12 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 13 & Agency =AIREN LIMITED not match 
+Row 13 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 14 & Agency =AIREN LIMITED not match 
+Row 14 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 15 & Agency =AIREN LIMITED not match 
+Row 15 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 16 & Agency =AIREN LIMITED not match 
+Row 16 and agency AIREN LIMITEDand branch = SURAT  not match 
+Row 17 and AccountNo RKTTWL00100003023042 match 
+Row 17 and App_Id 3864585 Match 
+Row 17 & Agency =AIREN LIMITED not match 
+Row 17 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 18 & Agency =AIREN LIMITED not match 
+Row 18 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 19 & Agency =AIREN LIMITED not match 
+Row 19 and agency AIREN LIMITEDand branch = SURAT  not match 
+Row 20 & Agency =AIREN LIMITED not match 
+Row 20 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 21 & Agency =AIREN LIMITED not match 
+Row 21 and agency AIREN LIMITEDand branch = SURAT  not match 
+Row 22 & Agency =AIREN LIMITED not match 
+Row 22 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 23 & Agency =AIREN LIMITED not match 
+Row 23 and agency AIREN LIMITEDand branch = SURAT  not match 
+Row 24 & Agency =AIREN LIMITED not match 
+Row 24 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 25 & Agency =AIREN LIMITED not match 
+Row 25 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 26 and AccountNo RKTTWL00100001617982 match 
+Row 26 and App_Id 2112927 Match 
+Row 26 & Agency =AIREN LIMITED not match 
+Row 26 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 27 and AccountNo RKTTWL00100001734518 match 
+Row 27 and App_Id 2246089 Match 
+Row 27 & Agency =AIREN LIMITED not match 
+Row 27 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 28 & Agency =AIREN LIMITED not match 
+Row 28 and agency AIREN LIMITEDand branch = SURAT  not match 
+Row 29 & Agency =AIREN LIMITED not match 
+Row 29 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 30 and AccountNo RKTTWL00100002209858 match 
+Row 30 and App_Id 2903246 Match 
+Row 30 & Agency =AIREN LIMITED not match 
+Row 30 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 31 & Agency =AIREN LIMITED not match 
+Row 31 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 32 & Agency =AIREN LIMITED not match 
+Row 32 and agency AIREN LIMITEDand branch = SURAT  not match 
+Row 33 & Agency =AIREN LIMITED not match 
+Row 33 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 34 & Agency =AIREN LIMITED not match 
+Row 34 and agency AIREN LIMITEDand branch = SURAT  not match 
+Row 35 & Agency =AIREN LIMITED not match 
+Row 35 and agency AIREN LIMITEDand branch = JETPUR  not match 
+Row 36 & Agency =AIREN LIMITED not match 
+Row 36 and agency AIREN LIMITEDand branch = SURAT  not match 
+Row 37 and AccountNo RKTTWL00100002759808 match 
+Row 37 and App_Id 3604088 Match 
+Row 37 & Agency =AIREN LIMITED not match 
+Row 37 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 38 and AccountNo VILTWL00100002944045 match 
+Row 38 and App_Id 3844115 Match 
+Row 38 & Agency =AIREN LIMITED not match 
+Row 38 and agency AIREN LIMITEDand branch = SURAT  not match 
+Row 39 & Agency =AIREN LIMITED not match 
+Row 39 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 40 & Agency =AIREN LIMITED not match 
+Row 40 and agency AIREN LIMITEDand branch = SURAT  not match 
+Row 41 & Agency =AIREN LIMITED not match 
+Row 41 and agency AIREN LIMITEDand branch = SURAT  not match 
+Row 42 & Agency =AIREN LIMITED not match 
+Row 42 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 43 and AccountNo RKTTWL00100003225423 match 
+Row 43 and App_Id 4286641 Match 
+Row 43 & Agency =AIREN LIMITED not match 
+Row 43 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 44 & Agency =AIREN LIMITED not match 
+Row 44 and agency AIREN LIMITEDand branch = MORBI  not match 
+Row 45 & Agency =AIREN LIMITED not match 
+Row 45 and agency AIREN LIMITEDand branch = SURAT  not match 
+Row 46 & Agency =AIREN LIMITED not match 
+Row 46 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 47 & Agency =AIREN LIMITED not match 
+Row 47 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 48 & Agency =AIREN LIMITED not match 
+Row 48 and agency AIREN LIMITEDand branch = SURAT  not match 
+Row 49 & Agency =AIREN LIMITED not match 
+Row 49 and agency AIREN LIMITEDand branch = SURAT  not match 
+Row 50 & Agency =AIREN LIMITED not match 
+Row 50 and agency AIREN LIMITEDand branch = SURAT  not match 
+Row 51 & Agency =AIREN LIMITED not match 
+Row 51 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 52 & Agency =AIREN LIMITED not match 
+Row 52 and agency AIREN LIMITEDand branch = RAJKOT  not match 
+Row 53 & Agency =AIREN LIMITED not match 
+Row 53 and agency AIREN LIMITEDand branch = GONDAL  not match 
+Row 54 and AccountNo Is Null 
+Row 54 and App_Id Is Null 
+Row 55 and AccountNo Is Null 
+Row 55 and App_Id Is Null 
+Row 56 and AccountNo Is Null 
+Row 56 and App_Id Is Null 
+Row 57 and AccountNo Is Null 
+Row 57 and App_Id Is Null 
+Row 58 and AccountNo Is Null 
+Row 58 and App_Id Is Null 
+Row 59 and AccountNo Is Null 
+Row 59 and App_Id Is Null 
+Row 60 and AccountNo Is Null 
+Row 60 and App_Id Is Null 
+Row 61 and AccountNo Is Null 
+Row 61 and App_Id Is Null 
+Row 62 and AccountNo Is Null 
+Row 62 and App_Id Is Null 
+Row 63 and AccountNo Is Null 
+Row 63 and App_Id Is Null 
+Row 64 and AccountNo Is Null 
+Row 64 and App_Id Is Null 
+Row 65 and AccountNo Is Null 
+Row 65 and App_Id Is Null 
+Row 66 and AccountNo Is Null 
+Row 66 and App_Id Is Null 
+Row 67 and AccountNo Is Null 
+Row 67 and App_Id Is Null 
+Row 68 and AccountNo Is Null 
+Row 68 and App_Id Is Null 
+Row 69 and AccountNo Is Null 
+Row 69 and App_Id Is Null 
+Row 70 and AccountNo Is Null 
+Row 70 and App_Id Is Null 
+Row 71 and AccountNo Is Null 
+Row 71 and App_Id Is Null 
+Row 72 and AccountNo Is Null 
+Row 72 and App_Id Is Null 
+Row 73 and AccountNo Is Null 
+Row 73 and App_Id Is Null 
+Row 74 and AccountNo Is Null 
+Row 74 and App_Id Is Null 
+Row 75 and AccountNo Is Null 
+Row 75 and App_Id Is Null 
+Row 76 and AccountNo Is Null 
+Row 76 and App_Id Is Null 
+Row 77 and AccountNo Is Null 
+Row 77 and App_Id Is Null 
+Row 78 and AccountNo Is Null 
+Row 78 and App_Id Is Null 
+Row 79 and AccountNo Is Null 
+Row 79 and App_Id Is Null 
+Row 80 and AccountNo Is Null 
+Row 80 and App_Id Is Null 
+Row 81 and AccountNo Is Null 
+Row 81 and App_Id Is Null 
+Row 82 and AccountNo Is Null 
+Row 82 and App_Id Is Null 
+Row 83 and AccountNo Is Null 
+Row 83 and App_Id Is Null 
+Row 84 and AccountNo Is Null 
+Row 84 and App_Id Is Null 
+Row 85 and AccountNo Is Null 
+Row 85 and App_Id Is Null 
+Row 86 and AccountNo Is Null 
+Row 86 and App_Id Is Null 
+Row 87 and AccountNo Is Null 
+Row 87 and App_Id Is Null 
+Row 88 and AccountNo Is Null 
+Row 88 and App_Id Is Null 
+Row 89 and AccountNo Is Null 
+Row 89 and App_Id Is Null 
+Row 90 and AccountNo Is Null 
+Row 90 and App_Id Is Null 
+Row 91 and AccountNo Is Null 
+Row 91 and App_Id Is Null 
+Row 92 and AccountNo Is Null 
+Row 92 and App_Id Is Null 
+Row 93 and AccountNo Is Null 
+Row 93 and App_Id Is Null 
+Row 94 and AccountNo Is Null 
+Row 94 and App_Id Is Null 
+Row 95 and AccountNo Is Null 
+Row 95 and App_Id Is Null 
+Row 96 and AccountNo Is Null 
+Row 96 and App_Id Is Null 
+Row 97 and AccountNo Is Null 
+Row 97 and App_Id Is Null 
+Row 98 and AccountNo Is Null 
+Row 98 and App_Id Is Null 
+Row 99 and AccountNo Is Null 
+Row 99 and App_Id Is Null 
+Row 100 and AccountNo Is Null 
+Row 100 and App_Id Is Null 
+Row 101 and AccountNo Is Null 
+Row 101 and App_Id Is Null 
+Row 102 and AccountNo Is Null 
+Row 102 and App_Id Is Null 
+Row 103 and AccountNo Is Null 
+Row 103 and App_Id Is Null 
+Row 104 and AccountNo Is Null 
+Row 104 and App_Id Is Null 
+Row 105 and AccountNo Is Null 
+Row 105 and App_Id Is Null 
+Row 106 and AccountNo Is Null 
+Row 106 and App_Id Is Null 
+Row 107 and AccountNo Is Null 
+Row 107 and App_Id Is Null 
+Row 108 and AccountNo Is Null 
+Row 108 and App_Id Is Null 
+Row 109 and AccountNo Is Null 
+Row 109 and App_Id Is Null 
+Row 110 and AccountNo Is Null 
+Row 110 and App_Id Is Null 
+Row 111 and AccountNo Is Null 
+Row 111 and App_Id Is Null 
